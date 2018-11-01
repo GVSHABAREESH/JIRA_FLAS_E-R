@@ -1,0 +1,6 @@
+*.pyc
+db.sqlite3
+migrations
+serializers.py
+viewsets.py
+error_handlers.py
